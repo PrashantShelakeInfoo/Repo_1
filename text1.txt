@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is A636-4DFB
+
+ Directory of C:\Users\prashant.shelake\Desktop\MyGitProject
+
+05/04/2021  06:28 PM    <DIR>          .
+05/04/2021  06:28 PM    <DIR>          ..
+05/04/2021  06:28 PM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  167,417,012,224 bytes free
